@@ -1,0 +1,6 @@
+[CONTENU DU FICHIER 20-style.css]
+
+[class^="col-"] {
+  float: left;
+  padding: 0.5rem;
+}

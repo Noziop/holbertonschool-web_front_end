@@ -1,0 +1,10 @@
+/* Normalize */
+[CONTENU DE NORMALIZE.CSS]
+
+/* Universal box sizing */
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+/* Mes styles */
+[CONTENU DU FICHIER 14-style.css]

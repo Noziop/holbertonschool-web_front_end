@@ -1,0 +1,7 @@
+html_generator_0.1/
+backup*/
+poetry.lock
+requirements.txt
+__pycache__/
+*.pyc
+*.pyo

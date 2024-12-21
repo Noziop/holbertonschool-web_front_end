@@ -1,0 +1,13 @@
+[CONTENU DU FICHIER 22-style.css]
+
+.footer-address {
+  color: var(--text-color);
+}
+
+.social-link {
+  display: block;
+}
+
+.social-link > svg {
+  fill: var(--text-color);
+}
